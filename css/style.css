@@ -1,0 +1,89 @@
+
+.a1 {
+  font-size: 35px;
+  color: #2EACDD;
+  border-bottom: solid 1px #2EACDD;
+  border-left: solid 5px #2EACDD;
+  border-top: solid 1px #2EACDD;
+  padding: 5px;
+  margin: 10;
+}
+
+.last{
+  font-size:70px;
+  margin:15px 30px 15px 50px;
+}
+
+
+header h2{
+  font-size:200%; /*フォントサイズの調整*/
+  color:#313131; /*文字色の変更*/
+  padding-top: 8px; /*文字上部に余白*/
+  padding-bottom: 8px; /*文字下部に余白*/
+  padding-left: 20px; /*文字左側に余白*/
+  padding-right: 20px; /*文字右側に余白*/
+  
+  letter-spacing: 3px; /*文字と文字の間隔をあける*/
+  font-weight:750; /*文字の太さの変更*/
+  border-radius: 5px; /*線の角に丸みを付ける*/
+  margin: 30px 120px 30px 120px;
+  border-radius: 30px 30px 30px 30px;/*左側の角を丸く*/
+  background: #ffffff;/*背景色*/
+  box-shadow:5px 10px 10px #505050
+}
+
+.a1 {
+  color: #505050;/*文字色*/
+  padding: 0.5em;/*文字周りの余白*/
+  /*display: inline-block;/*おまじない*/
+  line-height: 1.3;/*行高*/
+  background: #dbebf8;/*背景色*/
+  vertical-align: middle;
+  border-radius: 25px 25px 25px 25px;/*左側の角を丸く*/
+}
+
+.a1:before {
+  content: '●';
+  color: white;
+  margin-right: 8px;
+}
+
+.a1 {
+  margin: 15px 30px 16px 30px;
+}
+
+
+.b1 {
+  font-size: 20px;
+  margin: 15px 10px 16px 30px;
+}
+
+.c1{
+  margin: 15px 55px 16px 55px;
+}
+
+.table{
+  font-size: 20px;
+  margin: 15px 10px 16px 350px;
+}
+
+.shumi1{
+  margin: 15px 10px 16px 40px;
+    padding: 0.4em 0.5em;/*文字の上下 左右の余白*/
+    color: #494949;/*文字色*/
+    background: #f4f4f4;/*背景色*/
+    border-left: solid 5px #7db4e6;/*左線*/
+    border-bottom: solid 3px #d7d7d7;/*下線*/
+  }
+  .shumi{
+    margin: 15px 10px 16px 40px;
+  }
+  
+  
+.div1 {
+  margin: 30px 120px 30px 120px;
+  border-radius: 25px 25px 25px 25px;/*左側の角を丸く*/
+  background: #ffffff;/*背景色*/
+  box-shadow:5px 10px 10px #505050
+
+}
